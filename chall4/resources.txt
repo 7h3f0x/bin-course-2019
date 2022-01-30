@@ -1,0 +1,2 @@
+https://github.com/shellphish/how2heap/blob/master/glibc_2.26/unsorted_bin_attack.c
+https://vigneshsrao.github.io/babytcache/
